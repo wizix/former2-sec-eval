@@ -23,7 +23,7 @@
     "cli-progress": "^3.5.0",
     "colors": "^1.4.0",
     "commander": "^4.1.0",
-    "deepmerge": "^4.2.2",
+    "deepmerge": "^4.3.1",
     "former2": "^0.2.48",
     "logplease": "^1.2.15",
     "proxy-agent": "^6.3.1"
